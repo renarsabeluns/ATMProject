@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\bin\Debug\net6.0\ATMachine.exe
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\bin\Debug\net6.0\ATMachine.deps.json
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\bin\Debug\net6.0\ATMachine.runtimeconfig.json
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\bin\Debug\net6.0\ATMachine.dll
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\bin\Debug\net6.0\ATMachine.pdb
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\obj\Debug\net6.0\ATMachine.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\obj\Debug\net6.0\ATMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\obj\Debug\net6.0\ATMachine.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\obj\Debug\net6.0\ATMachine.AssemblyInfo.cs
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\obj\Debug\net6.0\ATMachine.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\obj\Debug\net6.0\ATMachine.dll
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\obj\Debug\net6.0\refint\ATMachine.dll
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\obj\Debug\net6.0\ATMachine.pdb
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\obj\Debug\net6.0\ATMachine.genruntimeconfig.cache
+C:\Users\user\Desktop\SAPIENS prakse\ConsoleApp1\obj\Debug\net6.0\ref\ATMachine.dll
